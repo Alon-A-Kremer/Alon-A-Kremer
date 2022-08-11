@@ -1,6 +1,6 @@
 -  Hi, I’m @Alon-A-Kremer
--  I’m interested in Data Science, ML and Ethical Hacking
--  I’m currently learning Data Science in Ben-Gurion University, Israel
+-  Certified Junior penetration tester with an interest in security I.T fields focused on Networking, Penetration Testing, Web Application Firewalls and SOC analytics.
+-  Always eager to investigate and get better learning and expanding my knowledge and skills with some security challenges.
 - How to reach me: akremer.dev@gmail.com
 
 <!---
